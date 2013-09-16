@@ -1,0 +1,7 @@
+{
+    "json_name": "aws_srv_dev_deploy",
+    "recipes":[
+        "recipe[echo]"
+    ]
+}
+

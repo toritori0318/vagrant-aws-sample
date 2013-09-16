@@ -1,0 +1,7 @@
+{
+    "json_name": "local_provision",
+    "recipes":[
+        "recipe[echo]"
+    ]
+}
+

@@ -1,0 +1,7 @@
+{
+    "json_name": "aws_srv_prd_wap",
+    "recipes":[
+        "recipe[echo]"
+    ]
+}
+

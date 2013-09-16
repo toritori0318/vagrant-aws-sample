@@ -1,0 +1,7 @@
+{
+    "json_name": "aws_srv_prd_redis",
+    "recipes":[
+        "recipe[echo]"
+    ]
+}
+

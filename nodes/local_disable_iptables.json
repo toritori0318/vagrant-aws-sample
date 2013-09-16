@@ -1,0 +1,7 @@
+{
+    "json_name": "local_disabled_iptables",
+    "recipes":[
+        "recipe[echo]"
+    ]
+}
+
